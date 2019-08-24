@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KotlinInstagram</string>
+    <string name="home_tab_text">Home</string>
+    <string name="search_tab_text">Search</string>
+    <string name="add_post_text">Add Post</string>
+    <string name="notification_tab_text">Notification</string>
+    <string name="profile_tab_text">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
